@@ -4,4 +4,4 @@ This software is free. You can download, modify, share and use it freely!
 To execute the program, you have to download the source code (cglos.c) and compile it. 
 
 WORK IN PROGRESS,
-csglos.c isn't ready!
+cglos.c isn't ready!
