@@ -1,0 +1,31 @@
+PLEASE NOTE THAT THIS WORK IS ACTUALLY INCOMPLETE! In the future the list will get longer.
+
+The list is available from the program, too.
+
+
+Variables list:
+1 - integer
+2 - short
+3 - long
+4 - float 
+5 - double
+6 - boolean
+7 - char
+
+I/O commands list:
+8 - getchar()
+9 - putchar()
+10 - printf()
+11 - scanf()
+
+Conditional control statements:
+12 - if
+13 - if-else
+14 - switch
+
+Loop statements, "break" and "continue":
+15 - while
+16 - do-while
+17 - for
+18 - break
+19 - continue
