@@ -18,12 +18,12 @@ I/O commands list:
 10 - printf()
 11 - scanf()
 
-Conditional control statements:
+Conditional control statements list:
 12 - if
 13 - if-else
 14 - switch
 
-Loop statements, "break" and "continue":
+Loop statements list, "break" and "continue":
 15 - while
 16 - do-while
 17 - for
